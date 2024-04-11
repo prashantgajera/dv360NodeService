@@ -1,0 +1,14 @@
+{
+    "apps": [
+        {
+            "name": "dv360-node-service",
+            "script": "index.js",
+            "watch": false,
+            "interpreter": "node",
+            "cwd": "/usr/local/dv360/dv360NodeService",
+            "instances": 1,
+            "exec_mode": "cluster",
+            "autorestart": true
+        }
+    ]
+}

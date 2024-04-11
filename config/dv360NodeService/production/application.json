@@ -1,0 +1,7 @@
+{
+    "databaseConfig": "/usr/local/dv360/dv360NodeService/config/dv360NodeService/production/database.json",
+    "jwt_secret": "<>",
+    "aes_secret": "<>",
+    "aws_access_key":"<>",
+    "aws_secret_key":"<>"
+}

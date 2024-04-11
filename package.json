@@ -1,0 +1,32 @@
+{
+  "name": "dv360-node-service",
+  "version": "1.0.0",
+  "description": "dv360-node-service",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "dv360",
+    "node",
+    "api",
+    "database"
+  ],
+  "author": "prashant.gajera",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1316.0",
+    "axios": "^1.2.5",
+    "cors": "^2.8.5",
+    "crypto-js": "^4.1.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "multer": "^1.4.5-lts.1",
+    "mysql2": "^3.1.0",
+    "randomstring": "^1.2.3",
+    "sequelize": "^6.28.0",
+    "winston": "^3.8.2",
+    "winston-daily-rotate-file": "^4.7.1"
+  }
+}

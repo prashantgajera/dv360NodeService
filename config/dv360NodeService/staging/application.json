@@ -1,0 +1,7 @@
+{
+    "databaseConfig": "/Users/prashantgajera/work/dv360NodeService/config/dv360NodeService/staging/database.json",
+    "jwt_secret": "<>",
+    "aes_secret":"<>",
+    "aws_access_key": "<>",
+    "aws_secret_key": "<>"
+}
